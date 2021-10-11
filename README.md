@@ -1,1 +1,1 @@
-# hexoBlog.github.io
+# HexoBlog.github.io
